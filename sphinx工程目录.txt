@@ -1,0 +1,29 @@
+libsphinx
+=============================================================
+°üº¬£º
+
+C:\Program Files (x86)\GnuWin32\include
+C:\Program Files (x86)\Expat 2.2.0\Source\lib
+C:\xampp\mysql\include
+C:\codes\cpp\coreseek-4.0.1-beta\mmseg-3.2.14\src
+C:\codes\cpp\coreseek-4.0.1-beta\mmseg-3.2.14\src\css
+C:\codes\cpp\coreseek-4.0.1-beta\mmseg-3.2.14\src\iniparser
+C:\codes\cpp\coreseek-4.0.1-beta\mmseg-3.2.14\src\utils
+
+¿â£º
+C:\codes\cpp\coreseek-4.0.1-beta\mmseg-3.2.14\src\win32\Debug
+C:\xampp\mysql\lib
+C:\Program Files (x86)\Expat 2.2.0\Bin
+C:\Program Files (x86)\GnuWin32\lib
+
+
+indexer
+=============================================================
+°üº¬£º
+C:\xampp\mysql\include
+
+¿â£º
+C:\xampp\mysql\lib
+C:\Program Files (x86)\Expat 2.2.0\Bin
+C:\Program Files (x86)\GnuWin32\lib
+
